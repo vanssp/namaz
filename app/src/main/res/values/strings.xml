@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Намаз</string>
+    <string name="widget_name">Намаз</string>
+    <string name="widget_description">Следующий намаз и его время</string>
+</resources>
